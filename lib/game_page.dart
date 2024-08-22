@@ -237,7 +237,7 @@ class _TicTacToeScreenState extends State<TicTacToeScreen> {
             const Padding(
               padding: EdgeInsets.only(bottom: 7),
               child: Text(
-                'Created with ❤️ by Gm_Abhishek',
+                'Created with 🖤 by Gm_Abhishek',
                 style: TextStyle(
                   color: Colors.grey,
                   fontSize: 14,
