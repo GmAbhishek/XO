@@ -209,6 +209,7 @@ class _TicTacToeScreenState extends State<TicTacToeScreen> {
                                       ? Colors.blue
                                       : Colors.red),
                             )
+
                           : const Center(),
                     ),
                   );
